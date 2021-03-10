@@ -1,0 +1,13 @@
+#SimaanParameters
+deltaPVAD=0.34
+end_t=10
+start_t=0
+step=0.0001
+HR=100
+Emax=0.8
+Emin=0.06
+Pao=90
+Qa=0
+Vve=111
+Pas=90
+Pae=5
